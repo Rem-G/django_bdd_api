@@ -42,8 +42,6 @@ class Data():
 
 		print("Done")
 
-data = Data()
-data.create_db(True, "/bdd_api/pop-sexe-age-quinquennal6816.xls")
-
-#CREATE TABLE "api_com_1968" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "Libelle_de_commune" text NULL)
+#data = Data()
+#data.create_db(True, "/bdd_api/pop-sexe-age-quinquennal6816.xls")
 
